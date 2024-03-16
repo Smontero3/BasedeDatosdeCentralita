@@ -1,0 +1,14 @@
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Centralita\bin\Debug\net8.0\Centralita.exe
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Centralita\bin\Debug\net8.0\Centralita.deps.json
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Centralita\bin\Debug\net8.0\Centralita.runtimeconfig.json
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Centralita\bin\Debug\net8.0\Centralita.dll
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Centralita\bin\Debug\net8.0\Centralita.pdb
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Centralita\obj\Debug\net8.0\Centralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Centralita\obj\Debug\net8.0\Centralita.AssemblyInfoInputs.cache
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Centralita\obj\Debug\net8.0\Centralita.AssemblyInfo.cs
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Centralita\obj\Debug\net8.0\Centralita.csproj.CoreCompileInputs.cache
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Centralita\obj\Debug\net8.0\Centralita.dll
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Centralita\obj\Debug\net8.0\refint\Centralita.dll
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Centralita\obj\Debug\net8.0\Centralita.pdb
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Centralita\obj\Debug\net8.0\Centralita.genruntimeconfig.cache
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Centralita\obj\Debug\net8.0\ref\Centralita.dll
