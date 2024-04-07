@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Centralita")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3b31f9396ace8157d964f3c617ce5144bba1f91")]
 [assembly: System.Reflection.AssemblyProductAttribute("Centralita")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Centralita")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
